@@ -1,5 +1,5 @@
 node{
-   stage('SCM Checkout from GitHub .. Repository we have'){
+   stage('SCM Checkout from GitHub .. Repository we have to'){
     git 'https://github.com/srinivas44/springboot_movies-master.git'
    }
    
